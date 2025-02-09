@@ -1,0 +1,21 @@
+{
+    "name": "Anony Post",
+    "short_name": "AnonyPost",
+    "description": "Browse anonymous posts and share your thoughts freely",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#111827",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
